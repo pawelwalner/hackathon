@@ -1,14 +1,3 @@
-# Książka adresowa:
-# Program przechowujący danę kontaktowe znajomych/klientów.
-#
-# - program wyświetla menu wypisujące komendy jakie należy wpisać, aby program wykonał dane zadanie. Zadania to:
-#   - Wyświetlenie wszystkich wpisów
-#   - Stworzenie nowego wpisu (dane wczytywane z klawiatury)
-#   - Usunięcie wpisu
-#   - Zakończenie pracy programu
-# - Program powinien na starcie mieć już wprowadzone kilka wpisów.
-
-
 print('Tu Twoja ksiażka adresowa. Podaj komendę, aby skorzystać z moich funkcji: \n '
       '1. show <- Pokażę Ci wszystkie Twoje kontakty \n '
       '2. add <- Stworzę nowy kontakt \n '
