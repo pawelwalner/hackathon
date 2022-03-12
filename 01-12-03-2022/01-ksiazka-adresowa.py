@@ -27,7 +27,7 @@ while user_action != 'exit':
         last_id = address_book[-1][0]
         first_name = input('Podaj imię kontaktu: ')
         last_name = input('Podaj nazwisko kontaktu: ')
-        phone =  input('Podaj numer telefonu kontaktu: ')
+        phone = input('Podaj numer telefonu kontaktu: ')
         email = input('Podaj adres email kontaktu: ')
         new_contact = [last_id + 1, first_name, last_name, phone, email]
         address_book.append(new_contact)
